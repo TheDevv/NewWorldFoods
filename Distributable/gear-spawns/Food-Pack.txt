@@ -1,0 +1,247 @@
+#-----------------
+loottable=BackPack
+#-----------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=80
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Friedchick w=80
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=80
+
+
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Friedchick w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=100
+
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Friedchick w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=100
+
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Friedchick w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=100
+
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Wizardsoda w=100
+
+
+#----------------
+loottable=Freezer
+#----------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=100
+item=Friedchick w=100
+item=Greenapple w=100
+item=Pineapple w=100
+
+
+#---------------
+loottable=Fridge
+#---------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cake w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Friedchick w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=100
+
+
+#--------------------
+loottable=HumanCorpse
+#--------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+
+
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+item=Thanksgivingbasket w=100
+
+
+#---------------
+loottable=Locker
+#---------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+
+
+#-----------------
+loottable=MetalBox
+#-----------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+
+
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=Apple w=100
+item=Bannana w=100
+item=Blueberrysoda w=100
+item=Cherrysoda w=100
+item=Dietsoda w=100
+item=Ghostsoda w=100
+item=Greenapple w=100
+item=Modorangesoda w=100
+item=Mountaindew w=100
+item=Nutella w=100
+item=Pepsi1 w=100
+item=Pepsi2 w=100
+item=Pepsi3 w=100
+item=Pineapple w=100
+item=Wizardsoda w=100
+
